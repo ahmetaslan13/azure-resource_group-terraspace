@@ -10,7 +10,7 @@ To deploy all the infrastructure stacks:
 
 To deploy individual stacks:
 
-    terraspace up resource group # where resource_group is app/stacks/resource_group
+    terraspace up resource_group # where resource_group is app/stacks/resource_group
 
 ## Terrafile
 
